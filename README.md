@@ -6,7 +6,7 @@
 
 ### 使用方法：
 
- 	#### 建立一张user表，包含，username，password，emailAdress， adress 字段即可
+ #### 建立一张user表，包含，username，password，emailAdress， adress 字段即可
 
 
 
