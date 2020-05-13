@@ -1,0 +1,16 @@
+spring:
+  mail:
+    username: xxxxx@qq.com
+    password: xxxxxxxxxx
+    host: smtp.qq.com
+    properties:
+      {"mail.smtp.starttls.enable","true"}
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/AutoSubmit?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8
+    username: xxx
+    password: xxx
+server:
+  port: 8443
+
