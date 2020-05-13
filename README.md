@@ -8,7 +8,7 @@
 
  #### 建立一张user表，包含，username，password，emailAdress， adress 字段即可
 
-
+#### 默认提供api/saveData接口向数据库添加数据
 
 #### 打成jar包直接放在服务器运行即可
 
